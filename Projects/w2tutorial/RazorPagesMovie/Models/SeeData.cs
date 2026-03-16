@@ -28,7 +28,8 @@ public static class SeedData
                     Title = "When Harry Met Sally",
                     ReleaseDate = DateTime.Parse("1989-2-12"),
                     Genre = "Romantic Comedy",
-                    Price = 7.99M
+                    Price = 7.99M,
+                    Rating = "R"
                 },
 
                 new Movie
@@ -36,7 +37,8 @@ public static class SeedData
                     Title = "Ghostbusters ",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
-                    Price = 8.99M
+                    Price = 8.99M,
+                    Rating = "R"
                 },
 
                 new Movie
@@ -44,7 +46,8 @@ public static class SeedData
                     Title = "Ghostbusters 2",
                     ReleaseDate = DateTime.Parse("1986-2-23"),
                     Genre = "Comedy",
-                    Price = 9.99M
+                    Price = 9.99M,
+                    Rating = "R"
                 },
 
                 new Movie
@@ -52,8 +55,37 @@ public static class SeedData
                     Title = "Rio Bravo",
                     ReleaseDate = DateTime.Parse("1959-4-15"),
                     Genre = "Western",
-                    Price = 3.99M
+                    Price = 3.99M,
+                    Rating = "R"
+                },
+
+                new Movie
+                {
+                    Title = "The Shawshank Redemption",
+                    ReleaseDate = DateTime.Parse("1994-9-22"),
+                    Genre = "Drama",
+                    Price = 9.99M,
+                    Rating = "R"
+                },
+
+                new Movie
+                {
+                    Title = "The Godfather",
+                    ReleaseDate = DateTime.Parse("1972-3-24"),
+                    Genre = "Crime",
+                    Price = 9.99M,
+                    Rating = "R"
+                },
+
+                new Movie
+                {
+                    Title = "The Dark Knight",
+                    ReleaseDate = DateTime.Parse("2008-7-18"),
+                    Genre = "Action",
+                    Price = 9.99M,
+                    Rating = "PG-13"
                 }
+
             );
             context.SaveChanges();
         }

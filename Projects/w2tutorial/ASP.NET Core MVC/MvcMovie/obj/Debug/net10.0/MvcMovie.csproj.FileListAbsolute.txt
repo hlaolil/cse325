@@ -84,8 +84,6 @@ C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\o
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\7tpgvl3x37-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\kk6x8kwsgs-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\u23ny76nnj-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-srdz53kpfw-srdz53kpfw.gz
-C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-srdz53kpfw-srdz53kpfw.gz
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\staticwebassets.development.json
@@ -365,3 +363,5 @@ C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\b
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\1kt5hl28no-{0}-idakerq9xg-idakerq9xg.gz
+C:\Users\Hlaoli\Downloads\cse325\Projects\w2tutorial\ASP.NET Core MVC\MvcMovie\obj\Debug\net10.0\compressed\xzd9bq0s9u-{0}-idakerq9xg-idakerq9xg.gz
